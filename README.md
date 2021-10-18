@@ -1,5 +1,5 @@
 # Evaluation bot
-#### Project goal: a voice chatbot that helps visitors and save thier choosen rate for the place in SQL database 
+#### Project goal: a voice chatbot that helps visitors rate the place and ask questions , the rate should be stored in database
 ![Screenshot (253)](https://user-images.githubusercontent.com/49666154/137741334-43486701-81db-4f6e-8d13-2ca027a5e19a.png)
 - #####   HTML, CSS, JS, JQUERY and PHP
 - #####   Responsive design
